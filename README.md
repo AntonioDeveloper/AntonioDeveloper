@@ -10,8 +10,6 @@ I specialize in developing performant frontend applications and integrating them
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
 
-<br><br>
-
 **Frontend**
 - React
 - JavaScript / TypeScript
