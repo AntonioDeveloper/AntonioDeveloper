@@ -6,25 +6,6 @@ I specialize in developing performant frontend applications and integrating them
 
 ---
 
-## 🎯 What I Bring
-
-- Strong experience with **React** for building scalable user interfaces  
-- Solid backend integration using **Node.js** and REST APIs  
-- Hands-on experience with **B2B and B2C e-commerce logic**  
-- Experience integrating **third-party services and external APIs**  
-- Focus on **performance, reliability, and user experience**
-
----
-
-## 💼 Professional Experience Highlights
-
-- Built customer registration systems integrated with **ERP and government databases**, ensuring secure and efficient data flows  
-- Implemented **different business rules for B2B and B2C platforms**, improving user experience and conversion  
-- Integrated services like **Sintegra and RD Station** to support business operations  
-- Developed **error handling and fallback strategies** to ensure system stability in critical flows  
-
----
-
 ## 🛠️ Tech Stack
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
@@ -54,17 +35,6 @@ I specialize in developing performant frontend applications and integrating them
 
 - Exploring **AI integrations** in real-world applications  
 - Creating practical solutions that connect **technology and business impact**
-
----
-
-## 📌 What I'm Looking For
-
-I'm looking for opportunities where I can:
-
-- Contribute to **real-world products**
-- Work with **modern frontend ecosystems (React)**
-- Continue growing as a **Full Stack Developer**
-- Build solutions that deliver **measurable business value**
 
 ---
 
